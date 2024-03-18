@@ -28,6 +28,9 @@ cd crud-basico
 # criar arquivo .env e adicionar chave de conexão do MongoDB
 echo "STRINGCONNECTION=\"link de acesso do MongoDB\"" >> .env
 
+# instale as dependências
+npm i
+
 # executar o projeto
 npm start
 
