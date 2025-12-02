@@ -39,6 +39,3 @@ npm start
 # Autor
 
 Willian Almeida
-
-https://www.linkedin.com/in/willian913/
-
