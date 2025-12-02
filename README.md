@@ -26,7 +26,7 @@ git clone https://github.com/willian913/crud-basico
 cd crud-basico
 
 # criar arquivo .env e adicionar chave de conexão do MongoDB
-echo "STRINGCONNECTION=\"link de acesso do MongoDB\"" >> .env
+echo "STRINGCONNECTION='link_de_acesso_do_MongoDB'" >> .env
 
 # instale as dependências
 npm i
